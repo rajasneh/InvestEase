@@ -23,12 +23,12 @@ function Footer() {
               </li>
               <li>
                 <a href="https://www.instagram.com/rajasneh28/">
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                  <i className="fa fa-instagram" aria-hidden="true"></i>
                 </a>
               </li>
               <li>
                 <a href="https://www.linkedin.com/in/asneh-raj-2080a1293/">
-                  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                  <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
               </li>
             </ul>
