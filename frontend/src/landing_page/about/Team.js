@@ -33,7 +33,11 @@ function Team() {
             (SMAC) and the Market Data Advisory Committee (MDAC).
           </p>
           <p>Playing basketball is his zen.</p>
-          <p>Connect on <a href="/">Homepage</a> / <a href="#TradingQnA">TradingQnA</a> / <a href="#Twitter">Twitter</a> </p>
+          <p>
+            Connect on <a href="/">Homepage</a> &nbsp;
+            <a href="#TradingQnA">TradingQnA</a> &nbsp;
+            <a href="#Twitter">Twitter</a>
+          </p>
         </div>
       </div>
       <div className="col-1"></div>
