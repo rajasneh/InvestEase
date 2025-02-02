@@ -70,3 +70,23 @@ body {
 .default-list {
   list-style: disc;
 }
+#supportHero{
+  background-color: rgb(56,126,209);
+  color: white;
+}
+#supportHero a{
+  color: white;
+  text-decoration: underline;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px ;
+}
+#supportHero input{
+  padding: 20px 5px ;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+}
