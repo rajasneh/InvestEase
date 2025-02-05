@@ -26,7 +26,7 @@ const Holdings = () => {
             return (
               <tr key={index}>
                 <td>{stock.name}</td>
-                <td>{stock.name}</td>
+                <td>{stock.qty}</td>
                 <td>{stock.avg.toFixed(2)}</td>
                 <td>{stock.price.toFixed(2)}</td>
                 <td>{currVal.toFixed(2)}</td>
